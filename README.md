@@ -1,1 +1,1 @@
-# odin-recipes
+I am going to make a recipe website by using the HTMl that I know and a little css.
