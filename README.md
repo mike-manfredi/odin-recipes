@@ -1,1 +1,1 @@
-I am going to make a recipe website by using the HTMl that I know and a little css.
+I am going to make a recipe website by using the HTML that I know and a little css.
